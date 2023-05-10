@@ -10,7 +10,7 @@ public class AxisBank extends Bank {
 	
 	public int pinNum(int pin) {
 		
-		return pin;
+		return 30;
 	}
 	
 
